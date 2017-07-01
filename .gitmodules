@@ -1,0 +1,21 @@
+[submodule "src/plugins/recorder"]
+	path = src/plugins/recorder
+	url = https://github.com/bliston/recorder.git
+[submodule "src/plugins/reverb"]
+	path = src/plugins/reverb
+	url = https://github.com/bliston/reverb.git
+[submodule "src/plugins/key-mapper"]
+	path = src/plugins/key-mapper
+	url = https://github.com/bliston/key-mapper.git
+[submodule "src/plugins/sampled-instrument"]
+	path = src/plugins/sampled-instrument
+	url = https://github.com/bliston/sampled-instrument.git
+[submodule "builds/windows/middle-portable-win"]
+	path = builds/windows/middle-portable-win
+	url = https://github.com/bliston/middle-portable-win.git
+[submodule "builds/windows/middle-portable-updater-win"]
+	path = builds/windows/middle-portable-updater-win
+	url = https://github.com/bliston/middle-portable-updater-win.git
+[submodule "src/host/middle-host"]
+	path = src/host/middle-host
+	url = https://github.com/bliston/middle-host.git
